@@ -18,6 +18,9 @@ Gene Expression Omnibus: https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE6
 Data collectiona and preparation ✅
 <br>
 <br>
-Stage 3: In Progress.....
+Stage 3:09-02-2024
 <br>
-Data wrangling.
+Data Preprocessing and analysis ✅
+
+stage 4: In progress 09-02-2024
+Feature selection and analysis of medical reports... 
