@@ -56,6 +56,8 @@ Stage 3: 09-02-2024
 <br>
 Data Preprocessing and analysis ✅
 
-stage 4: In progress 09-02-2024
+stage 4: In progress 09-02-2024 ✅
 <br>
-Feature selection and analysis of medical reports... 
+Feature selection and analysis of medical reports...
+
+ Stage 5: Model building and deployment ✅
